@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ace!</h1>
+<h1 align="center">Hi 🚀, I'm Ace!</h1>
 I'm a backend developer who is excited about building clean, scalable backend architectures.
 
 - 🔭 I’m currently working on [Kolo](https://github.com/the-nth-ace/kolo)
