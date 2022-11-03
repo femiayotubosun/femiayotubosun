@@ -33,7 +33,7 @@ I'm a backend developer who is excited about building clean, scalable backend ar
 - [Courses-io](https://github.com/the-nth-ace/courses-io) - Django
 - [Shoppyt](https://github.com/the-nth-ace/shoppyt) - FastAPI
 
-
+----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=the-nth-ace&show_icons=true&locale=en" alt="the-nth-ace" /></p>  
   
