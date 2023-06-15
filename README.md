@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🚀, I'm Femi</h1>
 I'm a developer who is excited about building clean, scalable backend architectures.
 
-- 🔭 I’m currently working on [CMMA CLI]([https://github.com/femiayotubosun/cmma-cli])
+- 🔭 I’m currently working on [CMMA CLI](https://github.com/femiayotubosun/cmma-cli)
 
 - 🌱 I’m currently learning **Typescript, and architectural patterns.**
 
